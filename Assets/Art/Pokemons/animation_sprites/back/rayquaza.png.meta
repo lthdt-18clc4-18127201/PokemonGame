@@ -1,0 +1,2711 @@
+fileFormatVersion: 2
+guid: e2310255278d9c546ab160786b672677
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rayquaza_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2438
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8483b16ee94aa489a33ff6718273b9
+      internalID: 585668153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2438
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fa0e29c55cb194296f54e48a730c39
+      internalID: -835935847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2438
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7afcd2406d07a74ea4a36fb05387a1a
+      internalID: -71688400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2438
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a10140560aa346906a42a924bc916
+      internalID: 14153592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2438
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeea5aeca5f9ee44986a750b415d60b
+      internalID: -1489202034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2332
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7b866270790b646b4fdc2311f9b373
+      internalID: 1585430264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2332
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6cbaef30642a4438f1a03d28268ff5
+      internalID: -816459758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2332
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ea5188643f6545a3d3a2cc16a894b
+      internalID: 1079310349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2332
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd37858af0a6c0458ac11672aefea77
+      internalID: -705198695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2332
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612875ddad770a34381808e2e055ac90
+      internalID: 1949499013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2226
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2f9c4d812a3f84b80ba368918d8cb3
+      internalID: 1043384036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2226
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f36a22a040a24b42a3041585329274d
+      internalID: 1233414208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2226
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f217ee31521d51041b310cba36f44240
+      internalID: 603419472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2226
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f287f5405e0d34da80a49125d5da36
+      internalID: -1091817256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2226
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa70aeb75d679a644a81742b8ddbfc72
+      internalID: -1023358710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2120
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49e1e639426b1149a279e210197cb59
+      internalID: 716498303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2120
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791db37cede481c43865c0e1b6f30722
+      internalID: -2017500767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2120
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fb6fc6edb5d21498d17c60c22ed6f9
+      internalID: -1381829659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2120
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d808c921ae13c4cafe041cc2ecb09e
+      internalID: 853789288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2120
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a00c5d4346b4843b7eab0e8af63f0c
+      internalID: 1090157848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2014
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49c05d642ebda6479521a4e6ac80683
+      internalID: -243390530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2014
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4f5f707184bb74ea8c329457b28125
+      internalID: 267350118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2014
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd5921737e41924d9d26ada7174e764
+      internalID: -227548379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2014
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb6326d74ebce441bd09e0fd3d105d3
+      internalID: 206422771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2014
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82ccbafcb10454fb8ad7cf55a44d43
+      internalID: -200045909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1908
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d85ffe653d831a4da9ca4973f1b292c
+      internalID: -1638763997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1908
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff6f59d1404baa49a1548e4dfb4f6b0
+      internalID: -507794985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1908
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c971385a5c25b1740a5053cf23fb06c2
+      internalID: -1574699773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_28
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1908
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a5ca44a6b63444dbad774df54bde81
+      internalID: -1936040037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1908
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea32c033b518984090e8fbef088c07a
+      internalID: 234102659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1802
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8136a92cb794214592bac1f9cf9e1d7
+      internalID: -2012893465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1802
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e8998c254c2c4f8ce608c81e6ba72
+      internalID: 1728415599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1802
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fc17f34f15cf24a9036847d09274a2
+      internalID: 1932941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1802
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0185cd7c210154d43a066f52f0289a5a
+      internalID: -240216662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_34
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1802
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe23739d43756740a50bad03a852edc
+      internalID: 1400619220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fea0f8218954a1409429da28303841c
+      internalID: 1025549004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1696
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6292a746d05bdb48af8df3da8a69160
+      internalID: 1968876341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1696
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c73ead1e38042f47accd3f1add931e1
+      internalID: -891733922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_38
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1696
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794d23cf23d552a4f9615213f5e50f0c
+      internalID: -1152146227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1696
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facb835d03c632447bfcb5c70af6cb0a
+      internalID: 501357472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4035ce278f4ae847800d62fd940f0c9
+      internalID: -1982267072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1590
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d080f3a88505f543af070488786dade
+      internalID: 1834225085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_42
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1590
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5be172a2221434081cde4cd7a523eb
+      internalID: 892315037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1590
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1237d38c24d892e4cbe1b5060c96f97a
+      internalID: -64269741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1590
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc683b67533c00048a87415fb2782aa2
+      internalID: 911542943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1484
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b114afa8059e06349a732d33dac06be1
+      internalID: -1984482353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1484
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8352f057614cf844b56f27d8e22e0b3
+      internalID: 340301287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1484
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d683182dc1eb74c8367eebc3a60d65
+      internalID: 1269349548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_48
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1484
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c98e48d4cfcbe84f80423ca2739be30
+      internalID: -1777701851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_49
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1484
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeac7f22e2affee4c9d8049a709dc518
+      internalID: 10251891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1378
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d5adeb62561704c87b8c630be1c69f
+      internalID: -1264729718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1378
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5482692a0fda4ca44a31983f151265b7
+      internalID: -462778476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1378
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e33456871c577c44ba67156e1428284
+      internalID: 481095913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_53
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1378
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb727bad944a963488f1e8529c6131a3
+      internalID: -601770505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_54
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1378
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee1898d15e1e7469182b52a915d075
+      internalID: -359952153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc940449846e6b9499c6bb47568ffc87
+      internalID: 1842551068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1272
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de897a23cb78d1448b96325d26e44780
+      internalID: -988218089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1272
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487134d71ece0354ea7f7e2235c547b5
+      internalID: -2038625888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1272
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3914f635d629243899e660ca50bbb7
+      internalID: 1805589366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_59
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1272
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63432bc6ae01754fa6040b5cf2c058f
+      internalID: -928616032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1166
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592ceef24e440d489525cecc84672e7
+      internalID: 1801906721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1166
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c1eea221611cf419256d4b10a19214
+      internalID: 669510504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1166
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4989f57b27e40a642add8036fe2b0811
+      internalID: 190552259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_63
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1166
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c28c69e4b0635643845da58f14d4983
+      internalID: 376013567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_64
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1166
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90b9c8149d1ae344b640fda4d77419a
+      internalID: -1647111278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1060
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaae5c424186ab439a31c358231eea5
+      internalID: 103273971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_66
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1060
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2848852a813ef3a4996c741f7ff446d1
+      internalID: 1938404944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1060
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90eeab9281d81b40bd3722a6450e287
+      internalID: -1789229210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_68
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1060
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b98af4cceabf5439f7ad57ace234ba
+      internalID: -1128275064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_69
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1060
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08456053c18ec57419ce5917391fbd8d
+      internalID: 814804298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c7833bb14ccbf42af63ebc2abd5a83
+      internalID: 1108707618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_71
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 954
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a2ec0f42c4457408b28ffd26ecf64b
+      internalID: -267667193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 954
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769fd970795281b4d92408aa28c09b1e
+      internalID: 1962826799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_73
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 954
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72d368392ef1e439572632651d309e
+      internalID: 805714970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_74
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 954
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61c257251797d5469fdc69725b7d09d
+      internalID: -1476878667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9ae4bcd887ac64cb2fef04aa8ca076
+      internalID: -723821362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_76
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 848
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1eed06d971be040adedad6452d6a61
+      internalID: -115125864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_77
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 848
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e408e553debd3439d81e8d8ec0a47f
+      internalID: 1140692184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 848
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf05157ecdfb2418024437796ce8cc
+      internalID: 926742082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_79
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 848
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0bc8941711cde45a19e8050a8612f8
+      internalID: 480027145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6e9669e21a35e4fac54249c833f54a
+      internalID: 248156596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_81
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 742
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d4c279e8fab204393da0aa0eba8564
+      internalID: 403469369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 742
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85787e3685c984f8359fb5390d0ad9
+      internalID: 118177986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_83
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 742
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73235554ce0b9414bbe52384c4f630ba
+      internalID: -1268626164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_84
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 742
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e676679af248754d8efcf98e09cfbe0
+      internalID: -800718379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04a57b11f7dbb847981d069444a3fa0
+      internalID: -489885891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_86
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 636
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92750906d2242a54285da652acbf7262
+      internalID: 59816408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_87
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 636
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478d411a11d7c4446928ec220834d1c8
+      internalID: 1329036603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_88
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 636
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd6d5b3f0b7b074086d87904a445c7b
+      internalID: -1104964534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_89
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 636
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af78d32e20ba5f34fad2eb5d4d9e5f6d
+      internalID: 953198215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2130a0c9a36df7742ba05ac4cf9070e1
+      internalID: -1412359866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_91
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 530
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ff4515096c84740bcd0c7bb3c49d5e
+      internalID: 1329471221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 530
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4227e6bcd1c168548860aceb1242ce87
+      internalID: -1975699272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_93
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 530
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520171caf3c130149a20de974bc27a0e
+      internalID: -2073534313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 530
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe2e44d0d7aea4c9a4eb050e55b40b
+      internalID: -1781729640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149c0b43b4301be499f6e7f4088cd995
+      internalID: 47494251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_96
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 424
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb08f4b9993a32479bbd369b0415437
+      internalID: 2097248702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_97
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 424
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddebdc4274ef08458c2f04b6f45e909
+      internalID: 1947161962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_98
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 424
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96210272f70c9334cbf423ce14079f26
+      internalID: 716348103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_99
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 424
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eecd88ed7ab67b4c82465e65a77ab77
+      internalID: -1266632928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67303c0775fc649bd9bdff1f408e7a
+      internalID: -1525319477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_101
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 318
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9956d1cfe8b07f408d2ead38026fea3
+      internalID: 1877447608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_102
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 318
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af1c022c096ed64f8154e9c8fc76fc4
+      internalID: -403840436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_103
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 318
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e0522400b89b4187b0ffa5cfac7aa
+      internalID: 2084961380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_104
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 318
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0eeaecf652133448a3e80b5098b81f
+      internalID: -1452617135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80d17c7bc4db9247929aaee68ff7336
+      internalID: -570690673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_106
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 212
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eb538b0b27a1241971aa7296409010
+      internalID: 1708248921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_107
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 212
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2956c593d957e43ba0af6b8ec695e2
+      internalID: 136602033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_108
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 212
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee8a4d86ec8e614d9bca64810413c32
+      internalID: 452635471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_109
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 212
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7e9802ec8e10848ac2d6c4c3f1fdf0
+      internalID: -1386263772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d507ee79ad18bf342b00823f897410bf
+      internalID: 1964582441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_111
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 106
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e741eae81058c3f4db200f7d2013f184
+      internalID: 1558935884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_112
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 106
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6fb9e0b33db0b4bb3bfb59c58dd166
+      internalID: -1348126419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_113
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 106
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f95a124403b714db466fa3d9c01943
+      internalID: -747162537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_114
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 106
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae3ffaf5c6013447989e1221d821ebb
+      internalID: 750574473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rayquaza_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eba083cda439c438e091a85125c393
+      internalID: -895965609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      rayquaza_107: 136602033
+      rayquaza_27: -1574699773
+      rayquaza_80: 248156596
+      rayquaza_98: 716348103
+      rayquaza_114: 750574473
+      rayquaza_86: 59816408
+      rayquaza_22: -227548379
+      rayquaza_39: 501357472
+      rayquaza_29: 234102659
+      rayquaza_48: -1777701851
+      rayquaza_54: -359952153
+      rayquaza_9: 1949499013
+      rayquaza_24: -200045909
+      rayquaza_69: 814804298
+      rayquaza_97: 1947161962
+      rayquaza_1: -835935847
+      rayquaza_13: -1091817256
+      rayquaza_23: 206422771
+      rayquaza_68: -1128275064
+      rayquaza_41: 1834225085
+      rayquaza_100: -1525319477
+      rayquaza_10: 1043384036
+      rayquaza_81: 403469369
+      rayquaza_96: 2097248702
+      rayquaza_75: -723821362
+      rayquaza_104: -1452617135
+      rayquaza_56: -988218089
+      rayquaza_50: -1264729718
+      rayquaza_66: 1938404944
+      rayquaza_18: 853789288
+      rayquaza_106: 1708248921
+      rayquaza_34: 1400619220
+      rayquaza_42: 892315037
+      rayquaza_62: 190552259
+      rayquaza_14: -1023358710
+      rayquaza_99: -1266632928
+      rayquaza_115: -895965609
+      rayquaza_20: -243390530
+      rayquaza_3: 14153592
+      rayquaza_25: -1638763997
+      rayquaza_113: -747162537
+      rayquaza_38: -1152146227
+      rayquaza_43: -64269741
+      rayquaza_45: -1984482353
+      rayquaza_47: 1269349548
+      rayquaza_63: 376013567
+      rayquaza_8: -705198695
+      rayquaza_77: 1140692184
+      rayquaza_19: 1090157848
+      rayquaza_85: -489885891
+      rayquaza_93: -2073534313
+      rayquaza_31: 1728415599
+      rayquaza_0: 585668153
+      rayquaza_26: -507794985
+      rayquaza_64: -1647111278
+      rayquaza_73: 805714970
+      rayquaza_21: 267350118
+      rayquaza_44: 911542943
+      rayquaza_105: -570690673
+      rayquaza_79: 480027145
+      rayquaza_78: 926742082
+      rayquaza_60: 1801906721
+      rayquaza_7: 1079310349
+      rayquaza_46: 340301287
+      rayquaza_90: -1412359866
+      rayquaza_101: 1877447608
+      rayquaza_37: -891733922
+      rayquaza_4: -1489202034
+      rayquaza_6: -816459758
+      rayquaza_51: -462778476
+      rayquaza_94: -1781729640
+      rayquaza_55: 1842551068
+      rayquaza_61: 669510504
+      rayquaza_49: 10251891
+      rayquaza_71: -267667193
+      rayquaza_111: 1558935884
+      rayquaza_83: -1268626164
+      rayquaza_72: 1962826799
+      rayquaza_16: -2017500767
+      rayquaza_30: -2012893465
+      rayquaza_74: -1476878667
+      rayquaza_5: 1585430264
+      rayquaza_91: 1329471221
+      rayquaza_53: -601770505
+      rayquaza_58: 1805589366
+      rayquaza_110: 1964582441
+      rayquaza_36: 1968876341
+      rayquaza_2: -71688400
+      rayquaza_15: 716498303
+      rayquaza_32: 1932941
+      rayquaza_92: -1975699272
+      rayquaza_112: -1348126419
+      rayquaza_102: -403840436
+      rayquaza_33: -240216662
+      rayquaza_82: 118177986
+      rayquaza_65: 103273971
+      rayquaza_57: -2038625888
+      rayquaza_70: 1108707618
+      rayquaza_11: 1233414208
+      rayquaza_40: -1982267072
+      rayquaza_88: -1104964534
+      rayquaza_76: -115125864
+      rayquaza_89: 953198215
+      rayquaza_59: -928616032
+      rayquaza_12: 603419472
+      rayquaza_28: -1936040037
+      rayquaza_95: 47494251
+      rayquaza_84: -800718379
+      rayquaza_109: -1386263772
+      rayquaza_108: 452635471
+      rayquaza_67: -1789229210
+      rayquaza_103: 2084961380
+      rayquaza_17: -1381829659
+      rayquaza_35: 1025549004
+      rayquaza_52: 481095913
+      rayquaza_87: 1329036603
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
